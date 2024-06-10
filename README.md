@@ -65,6 +65,9 @@ Conclusion:
 The data cleaning process using Python and its powerful libraries, such as pandas, significantly improved the quality of the dataset. By systematically addressing errors, inconsistencies, and missing values, the dataset was transformed from a raw state to a refined state, ready for in-depth analysis. This project highlights the critical role of data cleaning in the data analysis workflow, ensuring that subsequent analyses and insights are based on accurate and trustworthy data.
 
 *Before*
+
 ![plot](https://github.com/razeeniqbal/python-london-bike/blob/main/london_merged.png)
+
 *After*
+
 ![plot](https://github.com/razeeniqbal/python-london-bike/blob/main/london_bikes_final.png)
