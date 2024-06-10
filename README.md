@@ -1,6 +1,7 @@
 # Data Cleaning using Python for Analysis
 
 *Scope of the Project*
+
 The project aims to clean and prepare data for analysis using Python. The primary objective is to improve the quality of the dataset by rectifying errors, inconsistencies, and inaccuracies, thereby ensuring that the data is suitable for accurate and meaningful analysis. 
 
 Key tasks include:
