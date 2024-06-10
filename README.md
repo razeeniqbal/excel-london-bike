@@ -21,11 +21,14 @@ Libraries Used:
 - zipfile: For handling zipped data files.
 - kaggle: For accessing and downloading datasets from Kaggle.
 
+
 *Process and Methodology:*
+
 
 1. Initial Data Review:
 - Load the dataset into a pandas DataFrame.
 - Perform an initial review to identify obvious errors and inconsistencies.
+
 
 2. Data Cleaning Steps:
 - Loading Data:
@@ -40,12 +43,11 @@ Libraries Used:
   - Use df.drop_duplicates() to eliminate redundant records.
 - Data Type Conversion:
   - Convert data types as necessary using astype() to ensure consistency.
-- Handling Outliers:
-  - Identify and handle outliers using statistical methods or visualization techniques (e.g., box plots).
 - Data Standardization:
   - Standardize data formats (e.g., dates, strings) using pandas functions like pd.to_datetime() and string manipulation methods.
 - Data Validation:
   - Implement validation checks to ensure data consistency and integrity using custom functions or conditions.
+
 
 3. Documentation:
 - Keep detailed records of all steps and transformations applied during the data cleaning process.
