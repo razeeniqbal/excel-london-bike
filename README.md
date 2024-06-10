@@ -36,9 +36,6 @@ Libraries Used:
   - Utilize the kaggle library to download datasets directly from Kaggle.
 - Inspecting Data:
   - Use functions like df.head(), df.info(), and df.describe() to understand the structure and summary statistics of the data.
-- Handling Missing Values:
-  - Use df.isnull().sum() to identify missing values.
-  - Fill missing values using methods such as fillna() with appropriate strategies (e.g., mean, median, mode, or forward fill).
 - Removing Duplicates:
   - Use df.drop_duplicates() to eliminate redundant records.
 - Data Type Conversion:
